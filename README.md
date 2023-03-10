@@ -1,0 +1,2 @@
+# DemoRepsicles
+Mental Math Machine is a project I created when I am practicing mental mathematics for my transfer application exam in University of the Philippines. This program is responsible for generating random givens for that I will solve, timing how fast I solve, and check whether my answer is correct.  
